@@ -1,0 +1,5 @@
+This code comes from Aranet4-Python repo at the following url. I just
+copied/vendored it here because I find Python's module/package management system
+obtuse (AKA I'm too lazy to figure out how it works :p )
+
+https://github.com/Anrijs/Aranet4-Python/
